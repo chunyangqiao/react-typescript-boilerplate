@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunyangqiao/react-typescript-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chunyangqiao/react-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/chunyangqiao/react-typescript-boilerplate#readme"
+}
