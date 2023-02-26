@@ -1,0 +1,12 @@
+# editors
+.vscode
+.idea
+.DS_store
+
+# packages
+node_modules/
+
+# lock files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
