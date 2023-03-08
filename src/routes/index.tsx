@@ -5,7 +5,8 @@ import { HomeScreen } from "../pages/home"
 export const routes = createBrowserRouter([
   {
     path: '/',
-    element: <HomeScreen />
+    element: <HomeScreen />,
+    hasErrorBoundary: true
   }
 ])
 
